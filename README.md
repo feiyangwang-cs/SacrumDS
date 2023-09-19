@@ -5,7 +5,7 @@
 
 ### Downloading the SacrumDS Dataset
 -  The Sample Dataset (10 cases): Download link: [...](...)
--  The Whole Dataset: if you want to apply for these data, please complete the registration form in following link [...](...), and then send to xxx ('xxx@gmail.com'). We will send you the download link when recieve the data registration form.
+-  The Whole Dataset: if you want to apply for these data, please complete the registration form in following link [...](...), and then send to sacrumds.apply@outlook.com. We will send you the download link when recieve the data registration form.
 
 ### Code Access
 Please visit [...](...)
